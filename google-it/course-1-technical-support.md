@@ -5,7 +5,7 @@
 
 ---
 
-## Week 1
+## Week 1 Intro to IT - History of Computing
 
 ### Key Takeaways
 - Takeaway 1
