@@ -43,8 +43,6 @@
 
 
 ---
----
----
 ## Module 2 Hardware
 
 ### Key Takeaways
