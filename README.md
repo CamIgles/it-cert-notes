@@ -4,8 +4,7 @@
  ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=compTIA&logoColor=white) 
 # IT Certification Study Notes
 
-## Google IT Support Certificate <img src="images/google-it-icon.png" width="24"> Google IT Support Certificate
-
+## Google IT Support Certificate  <img src="images/google-it-icon.png" width="100"> 
 **Start Date:** [3-23-2026]
 **Target Completion:** [4-23-2026]
 
