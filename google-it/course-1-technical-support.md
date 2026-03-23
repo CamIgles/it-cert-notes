@@ -1,4 +1,4 @@
-# Technical Support
+# Technical Support Fundamentals
 
 **Start:** [3-23-2026]
 **Complete:** [date]
