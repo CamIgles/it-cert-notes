@@ -5,7 +5,7 @@
 
 ---
 
-## Module 1 Intro to IT - 
+## Module 1 Intro to IT 
 
 ### Key Takeaways
 - Computers function the way they do thanks to binary
@@ -15,7 +15,7 @@
 ### Important Terms
 | Term | Definition |
 |------|------------|
-|Abstraction | A technique used to make the use of something easier (you don't need to know how a car engine works to operate a car |
+|Abstraction | A technique used to make the use of something easier (you don't need to know how a car engine works to operate a car) |
 | ASCII  |  The encoding system we used to determine characters like 01111001 is y|
 |Byte| 8 bits|
 
@@ -23,10 +23,6 @@
 ### Binary ↔ Decimal Conversion
 
 #### Method: 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1
-
-Place binary digits under these place values. Add the values where the binary digit is 1.
-
----
 
 ## Decimal → Binary
 
