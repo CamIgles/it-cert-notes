@@ -3,9 +3,9 @@
 
 ## Google IT Support Certificate
 
-**Start Date:** [today]
-**Target Completion:** [date]
-
+**Start Date:** [3-23-2026]
+**Target Completion:** [4-23-2026]
+![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support-Certified-4285F4?style=flat-square&logo=google&logoColor=white)
 | Course | Status |
 |--------|--------|
 | 1. Technical Support Fundamentals | ⬜ Not Started |
