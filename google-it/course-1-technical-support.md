@@ -19,7 +19,6 @@
 | ASCII  |  The encoding system we used to determine characters like 01111001 is y|
 |Byte| 8 bits|
 
-
 ### Binary ↔ Decimal Conversion
 
 #### Method: 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1
@@ -31,8 +30,6 @@
 | 13 | 00001101 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 1 |
 | 42 | 00101010 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 |
 | 255 | 11111111 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-
----
 
 ## Binary → Decimal
 
