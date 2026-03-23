@@ -12,7 +12,7 @@
 - By using different encoding methods, we can use the technology we use today
 - Abstraction is what hides all the complexities of a computer
 
-### Important Terms
+### <mark>Important Terms</mark>
 | Term | Definition |
 |------|------------|
 |Abstraction | A technique used to make the use of something easier (you don't need to know how a car engine works to operate a car) |
