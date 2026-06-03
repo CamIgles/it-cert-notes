@@ -1,5 +1,5 @@
 # it-cert-notes 
- ![A+]<img src="images/A+" width="100" alt="CompTIA A+ Certified">
+ ![A+]<img src="images/A+.png" width="100" alt="CompTIA A+ Certified">
 
 # IT Certification Study Notes
 
