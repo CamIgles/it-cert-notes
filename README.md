@@ -1,5 +1,5 @@
 # it-cert-notes 
- ![A+](https://img.shields.io/badge/CompTIA%2520A%252B-Certified-DC322F?style=flat-square&logo=acclaim&logoColor=white)
+ ![A+]<img src="images/A+" width="100" alt="CompTIA A+ Certified" )
 
 # IT Certification Study Notes
 
