@@ -44,7 +44,7 @@
 | 4.  | ⬜ Not Started |
 | 5. | ⬜ Not Started |
 
-## Daily Log [Azure Notes](Azure-notes)
+## Daily Log [Azure Notes](azure-notes)
 
 | Date | Hours | Topic |
 |------|-------|-------|
