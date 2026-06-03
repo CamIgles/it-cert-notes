@@ -38,7 +38,7 @@
 
 | Course | Status |
 |--------|--------|
-| 1. [Describe Cloud Concepts]() | ⬜ Not Started |
+| 1. [Describe Cloud Concepts](azure-notes/describe-cloud-concepts) | ⬜ Not Started |
 | 2. [Describe Azure Architecture and Services]()| ⬜ Not Started |
 | 3. [Describe Azure Mnagement and Governance]() | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
