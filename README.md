@@ -19,7 +19,7 @@
 | 4.  | ⬜ Not Started |
 | 5. | ⬜ Not Started |
 
-## Daily Log [A+](A+.md)
+## Daily Log [A+ notes](A+.md)
 
 | Date | Hours | Topic |
 |------|-------|-------|
