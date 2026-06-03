@@ -26,7 +26,7 @@
 |6-3-2026|||
 
 ## AZ-900
-<img src="images/AZURE.png" width="100">
+<img src="images/azure.png" width="100">
 
 
 ### Start Date: [6-3-2026]
