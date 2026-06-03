@@ -5,6 +5,7 @@
 
 <img src="images/A+.png" width="100" alt="CompTIA A+ Certified">
 **Start Date:** [6-3-2026]
+---
 **Target Completion:** [7-3-2026]
 
 | Certification | Status |
