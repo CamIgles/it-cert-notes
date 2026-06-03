@@ -19,7 +19,7 @@
 | 4.  | ⬜ Not Started |
 | 5. | ⬜ Not Started |
 
-## Daily Log [A+ Notes](A+-notes)
+## Daily Log
 
 | Date | Hours | Topic |
 |------|-------|-------|
@@ -38,13 +38,13 @@
 
 | Course | Status |
 |--------|--------|
-| 1.  | ⬜ Not Started |
-| 2. | ⬜ Not Started |
-| 3. | ⬜ Not Started |
+| 1. [Describe Cloud Concepts]() | ⬜ Not Started |
+| 2. [Describe Azure Architecture and Services]()| ⬜ Not Started |
+| 3. [Describe Azure Mnagement and Governance]() | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
 | 5. | ⬜ Not Started |
 
-## Daily Log [Azure Notes](azure-notes)
+## Daily Log
 
 | Date | Hours | Topic |
 |------|-------|-------|
