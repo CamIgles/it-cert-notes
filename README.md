@@ -13,7 +13,7 @@
 
 | Course | Status |
 |--------|--------|
-| 1. [Mobile Devices](a+notes/MobileDevices) | ⬜ Not Started |
+| 1. [Mobile Devices](a+notes/Mobile_Devices) | ⬜ Not Started |
 | 2. | ⬜ Not Started |
 | 3. | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
