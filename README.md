@@ -13,7 +13,7 @@
 
 | Course | Status |
 |--------|--------|
-| 1. [Mobile Devices](A+-notes/1.0_Mobile_Devices) | ⬜ Not Started |
+| 1. [Cable Types](A+-notes/OBJ-3.2-&-3.4-CableTypes) | ⬜ Not Started |
 | 2. | ⬜ Not Started |
 | 3. | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
@@ -23,7 +23,7 @@
 
 | Date | Hours | Topic |
 |------|-------|-------|
-|6-3-2026|||
+|6-11-2026|||
 
 ## AZ-900
 <img src="images/azure.png" width="100">
