@@ -72,24 +72,23 @@
 
 ---
 
-## 📌 Connector Types (Visual Reference)
+## 🔌 Connector Types Table
 
-| Connector | Used For | Key Identifying Feature |
-|-----------|----------|-------------------------|
-| RJ11 | | |
-| RJ45 | | |
-| F-type | | |
-| LC | | |
-| SC | | |
-| ST | | |
-| Punchdown block | | |
-| MicroUSB | | |
-| MiniUSB | | |
-| USB-C | | |
-| Molex | | |
-| Lightning | | |
-| DB9 | | |
-
+| Connector | Used For | Key Feature | Image |
+|-----------|----------|-------------|-------|
+| RJ11 | | | <img src="./images/rj11.jpg" width="80"> |
+| RJ45 | | | <img src="./images/rj45.jpg" width="80"> |
+| F-type | | | <img src="./images/f-type.jpg" width="80"> |
+| ST | | | <img src="./images/st-connector.jpg" width="80"> |
+| SC | | | <img src="./images/sc-connector.jpg" width="80"> |
+| LC | | | <img src="./images/lc-connector.jpg" width="80"> |
+| Punchdown block | | | <img src="./images/punchdown-block.jpg" width="80"> |
+| MicroUSB | | | <img src="./images/microusb.jpg" width="80"> |
+| MiniUSB | | | <img src="./images/miniusb.jpg" width="80"> |
+| USB-C | | | <img src="./images/usb-c.jpg" width="80"> |
+| Molex | | | <img src="./images/molex.jpg" width="80"> |
+| Lightning | | | <img src="./images/lightning.jpg" width="80"> |
+| DB9 | | | <img src="./images/db9.jpg" width="80"> |
 ---
 
 ## 📌 Adapters
