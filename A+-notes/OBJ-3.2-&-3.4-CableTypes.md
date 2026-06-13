@@ -35,8 +35,8 @@
 ## 📌 Video Cables
 
 | Cable | Max Resolution | Connector Shape |
-|-------|----------------|----------------|-----------------|
-| HDMI | 1080p to 4k 8k 144hertz  | Type A (common) Type C (mini) Type D (micro) |
+|-------|----------------|----------------|
+| HDMI | 1080p to 4k 8k 144hertz  |Type A (common) Type C (mini) Type D (micro) |
 | DisplayPort | Up to 2x 4k at 60hz  | Full-size DP Mini Dp  |
 | DVI | 2560x1600 @ 60hz  | DVI-A 9 (only analog signals) DVI-D (support digital signals) DVI-I (supports both) |
 | VGA | 2048 x 1536 @ 60hz  | Older than DVI  |
