@@ -1,7 +1,7 @@
 # 3.2 - Cable Types, Connectors, Features & Purposes
 
 **Exam Objective:** 3.2 & 3.4 - Summarize basic cable types and their connectors, features, and purposes  
-**Dion Section:** Cable Types
+**Dion Section:** Cable Types 
 **Date reviewed:** 2026-06-11
 
 ---
