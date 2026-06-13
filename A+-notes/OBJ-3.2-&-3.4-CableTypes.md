@@ -20,6 +20,10 @@
 | Terabits (Tb)     |   1 trillion b         |                      |
 
 ---
+## Exterior of a PC
+
+**Tower Style**
+
 
 ## 📌 Network Cables
 
