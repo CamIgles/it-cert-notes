@@ -8,16 +8,16 @@
 
 ## Key Terms & Acronyms
 
-| Term | Definition | Speed/Length/Feature |
+| Term | Definition | 
 |------|------------|----------------------|
-| Bit     |    1 or 0 value        |                      |
-| NIbble     | bits combined together           |                      |
-| Byte     |    8 bits       |                      |
-| 1Kb (b)- bits (B) - Bytes     |    1,000 bits        |                      |
-| Kilobits(Kb)     | 1000 b           |                      |
-| Megabits (Mb)     |   1 million b        |                      |
-| Gigabits (Gb)     |   1 billion b         |                      |
-| Terabits (Tb)     |   1 trillion b         |                      |
+| Bit     |    1 or 0 value        |    
+| NIbble     | bits combined together           |                      
+| Byte     |    8 bits       |                      
+| 1Kb (b)- bits (B) - Bytes     |    1,000 bits        |                      
+| Kilobits(Kb)     | 1000 b           |                      
+| Megabits (Mb)     |   1 million b        |                      
+| Gigabits (Gb)     |   1 billion b         |                      
+| Terabits (Tb)     |   1 trillion b         |                      
 
 ---
 
