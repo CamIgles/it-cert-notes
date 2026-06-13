@@ -9,7 +9,7 @@
 ## Key Terms & Acronyms
 
 | Term | Definition | 
-|------|------------|----------------------|
+|------|------------|
 | Bit     |    1 or 0 value        |    
 | NIbble     | bits combined together           |                      
 | Byte     |    8 bits       |                      
