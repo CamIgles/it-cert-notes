@@ -20,11 +20,30 @@
 | Terabits (Tb)     |   1 trillion b         |                      |
 
 ---
-## Exterior of a PC
 
-**Tower Style**
+## 📌 Peripheral Cables
+
+| Cable Type | Speed | Connector | Common Use |
+|------------|-------|-----------|-------------|
+| USB Type A | USB 1.0 - 1.5Mbps USB 2.0- 480Mbps USB 3.0 - 5Gbps | USB 1.0, 1.1 and 2.0 standards. 3.0 j| can only be plugged in one direction (most common) |
+| USB Type B | | theres type b standard, mini and micro | it's used moslty on the back of printers it's like a square|
+| USB Type C | | USB-C| can be plugged in in either direction |
+
+**You can connect 127 devices to the same laptop or compute using USB
 
 
+## 📌 Video Cables
+
+| Cable | Max Resolution | Analog/Digital | Connector Shape |
+|-------|----------------|----------------|-----------------|
+| HDMI | 1080p to 4k 8k 144hertz | | Type A (common) Type C (mini) Type D (micro) |
+| DisplayPort | | | |
+| DVI | | | |
+| VGA | | | |
+| USB-C (video) | | | |
+| Thundebolt | | | |
+
+---
 ## 📌 Network Cables
 
 ### Copper
@@ -50,26 +69,8 @@
 
 ---
 
-## 📌 Peripheral Cables
 
-| Cable Type | Speed | Connector | Common Use |
-|------------|-------|-----------|-------------|
-| USB 2.0 | | | |
-| USB 3.0 | | | |
-| Serial (DB9) | | | |
-| Thunderbolt | | | |
 
----
-
-## 📌 Video Cables
-
-| Cable | Max Resolution | Analog/Digital | Connector Shape |
-|-------|----------------|----------------|-----------------|
-| HDMI | | | |
-| DisplayPort | | | |
-| DVI | | | |
-| VGA | | | |
-| USB-C (video) | | | |
 
 ---
 
@@ -109,9 +110,9 @@
 
 ---
 
-## ⚠️ Dion’s Gotchas / Exam Traps
+## ⚠️ Dion’s Tips
 
-- 
+- 1. Understand what these different USB ports and connectrs look like on a cable or on a port
 
 ---
 
