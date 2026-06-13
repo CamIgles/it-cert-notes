@@ -49,10 +49,10 @@
 
 | Cable | Speed | Max Length | Hot-swappable |
 |-------|-------|------------|----------------|
-| SATA | Revision 1 1.5 Gbps Revision 2 3 Gbps Revision 3 6 Gbs | | has two cables one for data transfer and one for power |
-| eSATA | same thing as SATA but external | | |
-| SCSI | | | Narrow up to 7 devices and Wide up to 15 devices |
-| Serial Attached SCSI | 24 Gbps  | | |
+| SATA | Revision 1: 1.5Gbps / Revision 2: 3Gbps / Revision 3: 6Gbs | 1 meter | has two cables one for data transfer and one for power |
+| eSATA | same thing as SATA but external |2 meter| |
+| SCSI | |12 meter | Narrow up to 7 devices and Wide up to 15 devices |
+| Serial Attached SCSI | 24 Gbps  | 10 meter | |
 | Thunderbolt | 40 Gbps | 2 feet | |
 
 ---
