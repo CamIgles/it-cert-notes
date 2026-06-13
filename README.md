@@ -13,7 +13,7 @@
 
 | Course | Status |
 |--------|--------|
-| 1. [Cable Types](A+-notes/OBJ-3.2-&-3.4-CableTypes.md) | X Finished |
+| 1. [Cable Types](A+-notes/OBJ-3.2-&-3.4-CableTypes.md) | [X] Finished |
 | 2. | ⬜ Not Started |
 | 3. | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
