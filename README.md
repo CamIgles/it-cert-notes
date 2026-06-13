@@ -13,7 +13,7 @@
 
 | Course | Status |
 |--------|--------|
-| 1. [Cable Types](A+-notes/OBJ-3.2-&-3.4-CableTypes) | ⬜ Not Started |
+| 1. [Cable Types](A+-notes/OBJ-3.2-&-3.4-CableTypes) | X Finished |
 | 2. | ⬜ Not Started |
 | 3. | ⬜ Not Started |
 | 4.  | ⬜ Not Started |
@@ -23,7 +23,8 @@
 
 | Date | Hours | Topic |
 |------|-------|-------|
-|6-11-2026|||
+|6-11-2026|1:00 hour | Introduction|
+|6-12-2026|1:40 hour | Cable Types|
 
 ## AZ-900
 <img src="images/azure.png" width="100">
