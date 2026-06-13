@@ -26,7 +26,7 @@
 | Cable Type | Speed | Connector | Common Use |
 |------------|-------|-----------|-------------|
 | USB Type A (1.0, 2.0, 3.0) | USB 1.0: 1.5Mbps / USB 2.0: 480Mbps / USB 3.0: 5Gbps | USB 1.0, 1.1 & 2.0 standards. USB 3.0 is SuperSpeed | Can only be plugged in one direction (most common) |
-| USB Type B | USB 2.0: 480 Mbps / USB 3.0: 5Gbps  |  | Theres type b standard, mini and micro it's used mostly on the back of printers, it's like a square |
+| USB Type B | USB 2.0: 480 Mbps / USB 3.0: 5Gbps  | Theres type b standard, mini and micro |  It's used mostly on the back of printers, it's like a square |
 | USB Type C | 5 Gbits | USB-C| can be plugged in in either direction |
 
 **You can connect 127 devices to the same laptop or compute using USB.
