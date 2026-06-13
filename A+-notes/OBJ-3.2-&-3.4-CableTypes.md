@@ -37,11 +37,23 @@
 | Cable | Max Resolution | Analog/Digital | Connector Shape |
 |-------|----------------|----------------|-----------------|
 | HDMI | 1080p to 4k 8k 144hertz | | Type A (common) Type C (mini) Type D (micro) |
-| DisplayPort | | | |
-| DVI | | | |
-| VGA | | | |
-| USB-C (video) | | | |
-| Thundebolt | | | |
+| DisplayPort | | | Full-size DP Mini Dp  |
+| DVI | | | DVI-A 9 (only analog signals) DVI-D (support digital signals) DVI-I (supports both) |
+| VGA | | | Older than DVI  |
+| USB-C (video) | | | Supports 4k  |
+| Thundebolt | | | Thunderbolt 1 and 2 where both use a connector similar to mini DP / 3 and 4 are the same port as USB-C |
+
+---
+
+## 📌 Hard Drive Cables
+
+| Cable | Speed | Max Length | Hot-swappable |
+|-------|-------|------------|----------------|
+| SATA | Revision 1 1.5 Gbps Revision 2 3 Gbps Revision 3 6 Gbs | | has two cables one for data transfer and one for power |
+| eSATA | same thing as SATA but external | | |
+| SCSI | | | Narrow up to 7 devices and Wide up to 15 devices |
+| Serial Attached SCSI | 24 Gbps  | | |
+| Thunderbolt | 40 Gbps | 2 feet | |
 
 ---
 ## 📌 Network Cables
@@ -74,14 +86,7 @@
 
 ---
 
-## 📌 Hard Drive Cables
 
-| Cable | Speed | Max Length | Hot-swappable |
-|-------|-------|------------|----------------|
-| SATA | | | |
-| eSATA | | | |
-
----
 
 ## 🔌 Connector Types Table
 
