@@ -40,7 +40,7 @@
 | DisplayPort | Up to 2x 4k at 60hz  | Full-size DP Mini Dp  |
 | DVI | 2560x1600 @ 60hz  | DVI-A 9 (only analog signals) DVI-D (support digital signals) DVI-I (supports both) |
 | VGA | 2048 x 1536 @ 60hz  | Older than DVI  |
-| USB-C (video) |  | Supports 4k  |
+| USB-C (video) | Up to 8k | Supports 4k  |
 | Thundebolt | 3x 4k @ 144Hz  | Thunderbolt 1 and 2 where both use a connector similar to mini DP / 3 and 4 are the same port as USB-C |
 
 ---
