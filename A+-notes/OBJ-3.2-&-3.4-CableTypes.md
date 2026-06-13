@@ -29,7 +29,7 @@
 | USB Type B | | theres type b standard, mini and micro | it's used moslty on the back of printers it's like a square|
 | USB Type C | | USB-C| can be plugged in in either direction |
 
-**You can connect 127 devices to the same laptop or compute using USB
+**You can connect 127 devices to the same laptop or compute using USB.
 
 
 ## 📌 Video Cables
