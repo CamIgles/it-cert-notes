@@ -1,8 +1,8 @@
 # 3.5 - Motherboards, CPUs & Add-on Cards
 
 **Exam Objective:** 3.5 - Given a scenario, install and configure motherboards, CPUs, and add-on cards  
-**Dion Video:** [Insert video title/number]  
-**Date reviewed:** YYYY-MM-DD
+**Dion Video:** Section 3 Motherboards   
+**Date reviewed:** 2025-6-14
 
 ---
 
@@ -10,35 +10,35 @@
 
 | Term | Definition |
 |------|-------------|
-| ATX | |
-| mATX | |
-| ITX | |
-| PCIe | |
-| TPM | |
-| UEFI | |
-| BIOS | |
-| ARM | |
+| LGA  | Land Gray Array so the mother has the pins (Intel)|
+| PGA  | Pin Grid Array so the CPU has the pins (AMD) |
+| ZIF | Zero Insertion Force Mechanism|
+| SMT  | Multithreading is the ability of an application do to more than one thing at a time and it reduces the amount of time it takes|
+| Multi-core Processors | Single CPU with multiple processors inside|
+|  | |
+|  | |
+|  | |
 
 ---
 
 ## 📌 Motherboard Form Factors
 
-| Form Factor | Size | Expansion Slots | Typical Use | Image |
-|-------------|------|-----------------|-------------|-------|
-| ATX | | | | <img src="./images/atx-motherboard.jpg" width="100"> |
-| microATX | | | | <img src="./images/microatx.jpg" width="100"> |
-| ITX | | | | <img src="./images/itx-motherboard.jpg" width="100"> |
-
+| Term | Definition |
+|------|-------------|
+| ATX | Full-size motherboard and measure 12" x 9.6"|
+| Mini-ATX | Slightly less big, barely used because size is almost the same |
+| microATX | Measures 9.6 and looks like a square, only has 4 expansion cards |
+| Mini-ITX | Measure 6.7" by 6.7", has only one expansion card |
 ---
 
 ## 📌 CPU Socket Types
 
-| Brand | Socket Name | Supported CPUs | Pin Count | Image |
-|-------|-------------|----------------|-----------|-------|
-| Intel | | | | <img src="./images/intel-socket.jpg" width="80"> |
-| Intel | | | | <img src="./images/intel-socket2.jpg" width="80"> |
-| AMD | | | | <img src="./images/amd-socket.jpg" width="80"> |
-| AMD | | | | <img src="./images/amd-socket2.jpg" width="80"> |
+| Brand | Socket Name | Supported CPUs | Pin Count | 
+|-------|-------------|----------------|-----------|
+| Intel | x86 and can only do 4GB of RAM | | | 
+| Intel | x64 and can do up to 64GB of RAM| | |
+| AMD | x86 and can only do 4GB of RAM | | | 
+| AMD | x64 and can do up to 64GB of RAM  | | | 
 
 ---
 
